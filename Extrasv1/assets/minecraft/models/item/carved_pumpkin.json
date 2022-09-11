@@ -1,0 +1,17 @@
+{
+  "parent": "minecraft:block/orientable",
+  "textures": {
+    "top": "minecraft:block/pumpkin_top",
+    "front": "minecraft:block/carved_pumpkin",
+    "side": "minecraft:block/pumpkin_side"
+  },
+    "overrides": [
+    {"predicate": {"custom_model_data": 1}, "model": "item/magichat"},
+    {"predicate": {"custom_model_data": 2}, "model": "item/bighat"},
+    {"predicate": {"custom_model_data": 3}, "model": "item/cap"},
+    {"predicate": {"custom_model_data": 4}, "model": "item/wichhat"},
+    {"predicate": {"custom_model_data": 5}, "model": "item/gls"},
+    {"predicate": {"custom_model_data": 6}, "model": "item/head"}
+    {"predicate": {"custom_model_data": 7}, "model": "item/asro"}
+    ]
+}

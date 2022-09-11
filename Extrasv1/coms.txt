@@ -1,0 +1,13 @@
+
+/give @p carved_pumpkin{CustomModelData:2,display:{Name:'[{"text":"Red Hat","italic":false,"bold":true,"color":"dark_red"}]',Lore:['[{"text":"Cosmatic From","italic":false,"color":"aqua"}]','[{"text":"Ashen_lk\'s ","italic":false,"color":"aqua"},{"text":"Extras++","color":"green"}]']}} 1
+/give @p carved_pumpkin{CustomModelData:1,display:{Name:'[{"text":"Magic Hat","italic":false,"bold":true,"color":"#cc33cc"}]',Lore:['[{"text":"Cosmatic from ","italic":false,"color":"aqua"},{"text":"Extras++","color":"green"}]']},HideFlags:1} 1
+/give @p carved_pumpkin{CustomModelData:3,display:{Name:'[{"text":"Cap","italic":false,"color":"blue","bold":true}]',Lore:['[{"text":"Cosmatic from ","italic":false,"color":"aqua"},{"text":"Extras++","color":"green"}]']}} 1
+/give @p stick{display:{CustomModelData:1,Name:'[{"text":"Umbrella","italic":false,"color":"dark_green","bold":true}]',Lore:['[{"text":"Cosmatic from ","italic":false,"color":"aqua"},{"text":"Extras++","color":"green"}]']}} 1
+/give @p diamond_sword{CustomModelData:1,display:{Name:'[{"text":"Wind_Cutter","italic":false,"color":"aqua","underlined":true,"bold":true}]',Lore:['[{"text":"Wepon from","italic":false,"color":"dark_red"},{"text":" ","color":"aqua"},{"text":"Extras++","color":"green"}]']}} 1
+/give @p carved_pumpkin{CustomModelData:4,display:{Name:'[{"text":"  ","italic":false},{"text":"Wich Hat ","color":"#66ff00","bold":true},{"text":"","color":"#66ff00","bold":false}]',Lore:['[{"text":"Cosmatic From ","italic":false,"color":"aqua"},{"text":"Extras++","color":"green"}]']}} 1
+/give @p trident{display:{CustomModelData:1,Name:'[{"text":"Mijolnir","italic":false,"color":"dark_red","bold":true}]',Lore:['[{"text":"Wepon Of ","italic":false},{"text":"Thor ","color":"aqua"},{"text":":","color":"white"},{"text":" ","color":"aqua"},{"text":"The God Of Thunder","color":"red"}]']},Enchantments:[{id:channeling,lvl:1},{id:impaling,lvl:5},{id:loyalty,lvl:3},{id:riptide,lvl:3},{id:sharpness,lvl:5}],HideFlags:1} 1
+/give @p carved_pumpkin{CustomModelData:5,display:{Name:'[{"text":"Glasses","italic":false,"color":"light_purple","bold":true}]',Lore:['[{"text":"Cosmetic from Extras++","italic":false,"color":"green"}]']}} 1
+/give @p carved_pumpkin{CustomModelData:6,display:{Name:'[{"text":"Headphones","italic":false,"color":"#66ff33","bold":true}]',Lore:['[{"text":"Cosmetic from Extras++","italic":false,"color":"red"}]']}} 1
+
+
+!!!!USE COMMAND BLOCKS!!!!!!!
